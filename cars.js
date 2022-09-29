@@ -22,7 +22,7 @@
 //     console.log(arr[arr.length-1])
 // })
 
-var s   elect = document.getElementById("cars")
+var select = document.getElementById("cars")
 
 var obj1 = {
     mark: "Ferrari",
